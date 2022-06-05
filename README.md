@@ -6,4 +6,4 @@ Simply provide the name of a city and you will recieve the current weather for t
 
 Visit Site 🌏: https://jocular-seahorse-c9ef2c.netlify.app/
 
-Thanks for taking the time and looking at my project, any feedback is muchly appreciated!✨
+Thanks for taking the time to look at my project, any feedback is muchly appreciated!✨
